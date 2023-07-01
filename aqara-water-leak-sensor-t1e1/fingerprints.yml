@@ -1,0 +1,11 @@
+zigbeeManufacturer:
+  - id: "LUMI/lumi.flood.agl02"
+    deviceLabel: Aqara Water Leak Sensor T1
+    manufacturer: LUMI
+    model: lumi.flood.agl02
+    deviceProfileName: water-battery
+  - id: "LUMI/lumi.flood.acn001"
+    deviceLabel: Aqara Water Leak Sensor E1
+    manufacturer: LUMI
+    model: lumi.flood.acn001
+    deviceProfileName: water-battery

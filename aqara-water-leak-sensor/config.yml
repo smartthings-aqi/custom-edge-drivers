@@ -1,0 +1,4 @@
+name: 'Aqara Water Leak Sensor'
+packageKey: 'aqara-water-leak-sensor'
+permissions:
+  zigbee: {}

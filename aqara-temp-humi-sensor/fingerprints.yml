@@ -1,0 +1,6 @@
+zigbeeManufacturer:
+  - id: "lumi.weather"
+    deviceLabel: Aqara Temperature and Humidity Sensor
+    manufacturer: LUMI
+    model: lumi.weather
+    deviceProfileName: temp-pressure

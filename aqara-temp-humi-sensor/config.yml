@@ -1,0 +1,5 @@
+name: 'Aqara Temperature and Humidity Sensor'
+packageKey: 'aqara-temp-humi-sensor'
+permissions:
+  zigbee: {}
+description: 'Driver for Aqara Temperature and Humidity Sensor'
